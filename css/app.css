@@ -1,0 +1,22 @@
+.container{
+
+}
+
+#signIn,
+#signUp{
+    display: none;
+}
+
+header,
+#top{
+    display: flex;
+    margin:50px auto;
+}
+
+header{
+    justify-content: space-between;
+}
+
+#top{
+    justify-content: flex-start;
+}
